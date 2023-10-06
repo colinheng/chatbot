@@ -1,5 +1,8 @@
 .env
 
+# log directory
+/logs
+
 # dependencies
 /node_modules
 

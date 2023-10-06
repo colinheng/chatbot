@@ -12,8 +12,11 @@
   "dependencies": {
     "@google-ai/generativelanguage": "^1.1.0",
     "colors": "^1.4.0",
+    "create-react-app": "^5.0.1",
     "dotenv": "^16.3.1",
     "google-auth-library": "^9.0.0",
+    "marked": "^9.1.0",
+    "marked-plaintext": "^0.0.2",
     "readline-sync": "^1.4.10"
   }
 }
